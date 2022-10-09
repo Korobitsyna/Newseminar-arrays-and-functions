@@ -1,0 +1,5 @@
+D:\Документы\Курсы ИИ\2semC#\Tuples\obj\Debug\net6.0\Tuples.csproj.AssemblyReference.cache
+D:\Документы\Курсы ИИ\2semC#\Tuples\obj\Debug\net6.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Курсы ИИ\2semC#\Tuples\obj\Debug\net6.0\Tuples.AssemblyInfoInputs.cache
+D:\Документы\Курсы ИИ\2semC#\Tuples\obj\Debug\net6.0\Tuples.AssemblyInfo.cs
+D:\Документы\Курсы ИИ\2semC#\Tuples\obj\Debug\net6.0\Tuples.csproj.CoreCompileInputs.cache
