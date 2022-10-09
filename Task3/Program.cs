@@ -11,7 +11,7 @@ int GetCoordinate(string message)
     {
         Console.WriteLine(message);
 
-        if (int.TryParse(Console.ReadLine(), out result) && result != 0 && result <= 4)
+        if (int.TryParse(Console.ReadLine(), out result) )
             isCorrect = true;
         else
             Console.WriteLine("Введите валидную координату!\n");
@@ -26,9 +26,14 @@ double result = 0;
 double tempx = Math.Pow(secondx - firstx, 2);
 double tempy = Math.Pow(secondy-firsty, 2);
 result = Math.Sqrt(tempx + tempy);
-
-Console.WriteLine($"Расстояние между двумя точками равно {result} ");
+ Console.WriteLine($"Расстояние между точками равно {result}");
 }
 
-GetDistanceBetweenTwoPoints(7, 1, -5, -1);
+int firstx = GetCoordinate("Введите координату X первой точки");
+int firsty = GetCoordinate("Введите координату y первой точки");
+int secondx = GetCoordinate("Введите координату X первой точки");
+int secondy = GetCoordinate("Введите координату y первой точки");
+GetDistanceBetweenTwoPoints(firstx, firsty, secondx, secondy);
+
+
 
