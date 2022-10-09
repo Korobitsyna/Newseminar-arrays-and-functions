@@ -1,0 +1,15 @@
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+D:\Документы\Курсы ИИ\2semC#\Task4\bin\Debug\net6.0\Task4.exe
+D:\Документы\Курсы ИИ\2semC#\Task4\bin\Debug\net6.0\Task4.deps.json
+D:\Документы\Курсы ИИ\2semC#\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+D:\Документы\Курсы ИИ\2semC#\Task4\bin\Debug\net6.0\Task4.dll
+D:\Документы\Курсы ИИ\2semC#\Task4\bin\Debug\net6.0\Task4.pdb
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.dll
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\refint\Task4.dll
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.pdb
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+D:\Документы\Курсы ИИ\2semC#\Task4\obj\Debug\net6.0\ref\Task4.dll
